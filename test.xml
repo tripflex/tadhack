@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+ <work>
+  <answer/>
+  <speak>Thank you for trying our demo.  Have an excellent day!</speak>
+  <wait>5</wait>
+  <hangup/>
+ </work>
+</document>
