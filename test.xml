@@ -2,7 +2,7 @@
 <document>
  <work>
   <answer/>
-  <speak>Thank you for trying our demo.  Have an excellent day!</speak>
+  <speak>Tell me how you really feel</speak>
   <wait>5</wait>
   <hangup/>
  </work>
